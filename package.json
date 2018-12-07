@@ -1,0 +1,15 @@
+{
+    "name": "3-bases-node",
+    "version": "1.0.0",
+    "description": "Esta es una aplicación CLI ",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "José de Jesús Vargas Ibáñez",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.3.2",
+        "yargs": "^12.0.5"
+    }
+}
